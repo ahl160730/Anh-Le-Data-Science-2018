@@ -21,43 +21,7 @@ Code Author: Anh Hong  Le
 - SUMMARY
 
 
-                            OLS Regression Results                            
-==============================================================================
-Dep. Variable:                     Y2   R-squared:                       0.888
-Model:                            OLS   Adj. R-squared:                  0.887
-Method:                 Least Squares   F-statistic:                     859.1
-Date:                Wed, 25 Apr 2018   Prob (F-statistic):               0.00
-Time:                        17:52:51   Log-Likelihood:                -1979.3
-No. Observations:                 768   AIC:                             3975.
-Df Residuals:                     760   BIC:                             4012.
-Df Model:                           7                                         
-Covariance Type:            nonrobust                                         
-==============================================================================
-                 coef    std err          t      P>|t|      [0.025      0.975]
-------------------------------------------------------------------------------
-const         97.2457     20.765      4.683      0.000      56.483     138.009
-X1           -70.7877     11.225     -6.306      0.000     -92.824     -48.751
-X2            -0.0661      0.015     -4.519      0.000      -0.095      -0.037
-X3             0.0225      0.004      5.365      0.000       0.014       0.031
-X4            -0.0443      0.008     -5.404      0.000      -0.060      -0.028
-X5             4.2838      0.369     11.618      0.000       3.560       5.008
-X6             0.1215      0.103      1.176      0.240      -0.081       0.324
-X7            14.7171      0.888     16.573      0.000      12.974      16.460
-X8             0.0407      0.076      0.534      0.594      -0.109       0.190
-==============================================================================
-Omnibus:                      104.668   Durbin-Watson:                   1.094
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):              230.547
-Skew:                           0.767   Prob(JB):                     8.65e-51
-Kurtosis:                       5.203   Cond. No.                     2.85e+16
-==============================================================================
-
-Warnings:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 5.61e-25. This might indicate that there are
-strong multicollinearity problems or that the design matrix is singular.
-
-
-![Filtering Data](https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/PredictingBitcoinFeb2018/pictures/LoadClassification.PNG)
+![Filtering Data]https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/EnergyEfficiency/pictures/LoadClassification.PNG)
 
 ## SUMMARY
 
