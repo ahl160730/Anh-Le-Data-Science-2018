@@ -21,11 +21,11 @@ Code Author: Anh Hong Le
 - Preamble and Datasets
 - Part I: GridSeachCV, Bagging, Boosting, Voting Classifier
 - Part II: Data Reduction ( Bagging/Boosting/Pure Estimators)
-- Part III: Evaluation Strategy ( Recall and Micro-average)¶
-- Part IV: SUMMARY
+- Part III: Evaluation Strategy ( Recall and Micro-average)Â¶
+- SUMMARY
 
 
-# Part IV: SUMMARY
+# SUMMARY
 
  This summary is a brief guide to all justifications. Results in part III are based on test scores including out-of-bag outputs.
 
