@@ -21,7 +21,7 @@ Code Author: Anh Hong  Le
 - SUMMARY
 
 
-![Filtering Data]https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/EnergyEfficiency/pictures/LoadClassification.PNG)
+![Filtering Data](https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/EnergyEfficiency/pictures/LoadClassification.PNG)
 
 ## SUMMARY
 
