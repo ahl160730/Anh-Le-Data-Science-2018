@@ -15,8 +15,8 @@ Code Author: Anh Hong Le
 - Model Selection: KNN Regressor/ Linear Regressor / Polynomial / Kernelized SVR
 - Predicting Bitcoin Price: Polynomial
 
-![Filtering Data](https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/PredictingBitcoinFeb2018/pictures/Filtering_data_time_series.PNG)
+![Filtering Data](https://github.com/ahl160730/Data-Science-Projects-since-2018/blob/master/UTD%20Machine%20Learning%20Projects/BitcoinPrediction/pictures/Filtering_data_time_series.PNG)
 
-![KNN Grid Search](https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/PredictingBitcoinFeb2018/pictures/KNN_Grid_Search.PNG)
+![KNN Grid Search](https://github.com/ahl160730/Data-Science-Projects-since-2018/blob/master/UTD%20Machine%20Learning%20Projects/BitcoinPrediction/pictures/KNN_Grid_Search.PNG)
 
-![Prediction](https://github.com/ahl160730/Data-Science-in-Python/blob/master/UTD%20Machine%20Learning%20Projects/PredictingBitcoinFeb2018/pictures/Predicting_Bitcoin_Price.PNG)
+![Prediction](https://github.com/ahl160730/Data-Science-Projects-since-2018/blob/master/UTD%20Machine%20Learning%20Projects/BitcoinPrediction/pictures/Predicting_Bitcoin_Price.PNG)
