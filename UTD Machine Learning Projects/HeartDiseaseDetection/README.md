@@ -1,4 +1,4 @@
-# Project 2: Cardiac Arrhythmia Multy-Class Classification 
+# Project 2: Cardiac Arrhythmia Multi-Class Classification 
 
 Code Author: Anh Hong Le
 
