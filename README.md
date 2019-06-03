@@ -1,3 +1,3 @@
 # Data-Science-in-Python
-- UTD Machine Learning Projects
+- UT Dallas Machine Learning Projects
 - Internship Projects in People Analytics
