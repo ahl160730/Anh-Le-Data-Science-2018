@@ -1,6 +1,6 @@
 # Machine Learning Class Projects
 
-- Project 1: Bitcoin Prediction in February 2018  
+- Project 1: Bitcoin Prediction in February 2018  (Polynomial)
 
 - Project 2: Classifying patients' cases with Cardiac Arrhythmia
 
