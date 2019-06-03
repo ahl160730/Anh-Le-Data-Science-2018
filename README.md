@@ -1,9 +1,3 @@
 # Data Science in Python
-- UT Dallas Machine Learning Projects
+- Machine Learning Projects at UT Dallas
 - Internship Projects in People Analytics
-
-# Data Science in R
-- Pending
-
-# Predictive Modeling in SAS
-- Pending
