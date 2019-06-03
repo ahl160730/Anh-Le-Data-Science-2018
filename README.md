@@ -3,7 +3,7 @@
 - Internship Projects in People Analytics
 
 # Data Science in R
-- Upcoming
+- Pending
 
 # Predictive Modeling in SAS
-- Upcoming
+- Pending
